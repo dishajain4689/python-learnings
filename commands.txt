@@ -1,0 +1,4 @@
+python3 filename.py
+
+github
+git add . && git commit -m "Init" && git push

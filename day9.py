@@ -13,7 +13,7 @@ print(int(a)+ int(b))
 #ans= 3
 # the above thing is explicit conversion (i am tell python, oii python convert (xyz)data type to (abc)data type. ex int to srting )
 #implicit typecasting(it converts a smaller data type to a higher data type to prevent data loss)
-c=1.9
-d=8
-print(c+d)
-#ans= 9.9
+c=1.9 # this type is float
+d=8 #this type is integer
+print(c+d) 
+#ans= 9.9 # float + int = float

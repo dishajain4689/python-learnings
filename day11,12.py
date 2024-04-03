@@ -16,3 +16,9 @@ for character in a2:
 print("\n")
 for character in a3:
     print(character)
+print("\n")
+names="disha,rithu,tanvi"
+print(names[0:5])
+print(names[5:8])
+print(names[6:17])
+print("length of name is", len(names))

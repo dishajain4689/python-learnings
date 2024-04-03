@@ -22,3 +22,14 @@ print(names[0:5])
 print(names[5:8])
 print(names[6:17])
 print("length of name is", len(names))
+
+#strings are immutable
+b= "Disha!!!!!!!"
+print(b)
+print(b. lower())
+print(b. upper())
+print(b. rstrip("!"))
+print(b. replace, ("Disha"),( "tanvi"))    
+
+
+

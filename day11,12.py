@@ -24,12 +24,16 @@ print(names[6:17])
 print("length of name is", len(names))
 
 #strings are immutable
-b= "Disha!!!!!!!"
+b= "disha !!!!disha !!!"
 print(b)
 print(b. lower())
 print(b. upper())
 print(b. rstrip("!"))
-print(b. replace, ("Disha"),( "tanvi"))    
-
+print(b. replace("disha", "tanvi"))   
+print(b. split(" "))
+print(b. capitalize())
+print(b. center(800))
+print(b. count("!"))
+print(b. endswith("!"))
 
 

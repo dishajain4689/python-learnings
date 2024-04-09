@@ -4,7 +4,7 @@ print("my name is", a)
 x= input("enter your first no:")
 y= input("enter your second no:")
 #addition
-print(x+y)
+# print(x+y)
 # ans= (if x=1, y=2) 12
 print("sum=",float(x) + float(y))
 # ans = (if x=1, y=2) 3
